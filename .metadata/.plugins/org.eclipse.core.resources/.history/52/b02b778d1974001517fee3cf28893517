@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class ChineseYear {
+
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the year:");
+		int inputYear = sc.nextInt();
+		EvaluateChineseYear(inputYear);
+	}
+	
+	private static void EvaluateChineseYear(int inputYear) 
+	{
+		int yearDiffernce = inputYear - 1990;
+		int remainder=
+		
+	}
+
+	
+	
+		
+		
+		
+
+	}
+
+}
